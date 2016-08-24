@@ -5,5 +5,8 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 
+# Ignore node modules.
+sites/*/node_modules/
+
 # Ignore .ds_store files from Mac
 .DS_Store
